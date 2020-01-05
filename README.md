@@ -1,5 +1,5 @@
 # hello-world
-Tutorial for Creating the "hello-world" Repository
+Tutorial for Creating the "hello-world" Repository.
 
 Hi there!
 
